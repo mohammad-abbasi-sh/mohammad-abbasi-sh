@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006D70,100:0FB5A8&height=180&section=header&text=Mohammad%20Abbasi&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=SEO%20Manager%20%7C%20AI-Driven%20Growth%20%7C%20Product%20%26%20Web%20Developer&descAlignY=58&descSize=17" width="100%" alt="Mohammad Abbasi — SEO Manager, AI-Driven Growth, Product and Web Developer"/>
+  <img src="assets/header.svg" width="100%" alt="Mohammad Abbasi — SEO Manager, AI-Driven Growth, Product and Web Developer"/>
 </div>
 
 **I turn search into growth — SEO systems that rank, AI workflows that scale, and products that convert.**
@@ -82,4 +82,4 @@ My last year of commits as a Pac-Man game, regenerated daily by GitHub Actions. 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006D70,100:0FB5A8&height=90&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
