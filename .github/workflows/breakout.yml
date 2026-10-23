@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: shahkooh
           outputs: |
-            dist/breakout-contribution-graph.svg
-            dist/breakout-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
