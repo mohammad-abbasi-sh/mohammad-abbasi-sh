@@ -53,6 +53,7 @@ Technical SEO · GEO / AI Search · Programmatic SEO · AI Content Engines · Pr
 | --- | --- |
 | **[Persian Sentiment Analysis](https://github.com/shahkooh/persian-sentiment-analysis)**<br>End-to-end Persian sentiment classification on **23,000+ Digikala reviews** — custom crawler, Hazm preprocessing, Word2Vec and a Bidirectional LSTM at **89–90% test accuracy**.<br><br>**Python · TensorFlow / Keras · Word2Vec · Hazm · Jupyter** | **[Traffic State Prediction — LSTM](https://github.com/shahkooh/traffic-state-prediction-lstm)**<br>Predicting the next traffic state at intersections with stacked LSTM networks, as a step toward adaptive traffic-light control. Three framings tested: state-only, state+action, and next-action classification.<br><br>**Python · LSTM · scikit-learn · Time Series** |
 | **[Bonbama](https://bonbama.ir)** — *product, code private*<br>Local discovery & marketplace where I lead SEO and product: programmatic local pages, business acquisition and a growth sprint measured in real bookings, not just traffic.<br><br>**SEO · Product · Local Search · Marketplace** | **[Almanibama](https://almanibama.ir)** — *product, code private*<br>German-learning platform for Persian speakers that I founded and build: 4,000+ word dictionary, Goethe / telc exam prep, and a growing content library.<br><br>**Product · EdTech · Content · SEO** |
+| **[seo-audit-cli](https://github.com/shahkooh/seo-audit-cli)** — *Week 1 of 12*<br>Zero-dependency technical SEO audit for any URL: title, meta, H1, canonical, schema and OG checks with a 0–100 score. One command, no install.<br><br>**Python · Technical SEO · CLI** | **12 projects in 12 weeks**<br>One real SEO × AI project, built and shipped here every week — no demos, no filler. Follow along on [LinkedIn](https://www.linkedin.com/in/mohammad-abbasi-sh/).<br><br>**Build in Public · SEO × AI** |
 
 ---
 
@@ -69,11 +70,9 @@ Technical SEO · GEO / AI Search · Programmatic SEO · AI Content Engines · Pr
 
 ### 🕹️ Commit arcade
 
-![Breakout game over Mohammad's GitHub contribution graph](https://github.com/shahkooh/shahkooh/blob/output/breakout-contribution-graph.svg)
+![Pac-Man game over Mohammad's GitHub contribution graph](https://github.com/shahkooh/shahkooh/blob/output/pacman-contribution-graph.svg)
 
-My last year of commits as Breakout bricks, regenerated daily. [Play it yourself](https://abozanona.github.io/breakout-contribution-graph/) · made with [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
-
-> The arcade appears after the GitHub Action in this repo runs once — see `.github/workflows/breakout.yml`.
+My last year of commits as a Pac-Man game, regenerated daily by GitHub Actions. Made with [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
 
 ---
 
