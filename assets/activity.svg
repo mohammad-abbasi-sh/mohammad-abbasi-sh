@@ -1,0 +1,21 @@
+<svg width="880" height="230" viewBox="0 0 880 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub at a glance: 7 public repositories, 61 contributions in the past year, top languages Jupyter Notebook and Python">
+  <rect x="1" y="1" width="878" height="228" rx="10" fill="#ffffff" stroke="#e4e7ec" stroke-width="2"/>
+  <text x="40" y="48" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#006D70">GitHub at a glance</text>
+
+  <text x="40" y="102" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="#111827">7</text>
+  <text x="40" y="126" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#57606a">Public repositories</text>
+
+  <text x="330" y="102" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="#111827">61</text>
+  <text x="330" y="126" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#57606a">Contributions in the past year</text>
+
+  <text x="620" y="102" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="#111827">1</text>
+  <text x="620" y="126" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#57606a">Open-source PR upstream — Hazm #374</text>
+
+  <text x="40" y="162" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#111827">Top languages</text>
+  <rect x="40" y="174" width="800" height="12" rx="6" fill="#3776AB"/>
+  <rect x="40" y="174" width="720" height="12" rx="6" fill="#DA5B0B"/>
+  <circle cx="46" cy="206" r="6" fill="#DA5B0B"/>
+  <text x="60" y="211" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#111827">Jupyter Notebook · 90.0%</text>
+  <circle cx="300" cy="206" r="6" fill="#3776AB"/>
+  <text x="314" y="211" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#111827">Python · 10.0%</text>
+</svg>
