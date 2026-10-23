@@ -60,12 +60,7 @@ Technical SEO · GEO / AI Search · Programmatic SEO · AI Content Engines · Pr
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-abbasi-sh&show_icons=true&theme=teal&hide_border=true&title_color=006D70&icon_color=0FB5A8" height="165" alt="Mohammad Abbasi GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-abbasi-sh&layout=compact&theme=teal&hide_border=true&title_color=006D70" height="165" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-abbasi-sh&theme=teal&hide_border=true" alt="GitHub streak"/>
+  <img src="assets/activity.svg" width="880" alt="GitHub at a glance — public repositories, contributions in the past year, top languages"/>
 </div>
 
 ### 🕹️ Commit arcade
