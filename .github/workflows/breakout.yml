@@ -18,7 +18,7 @@ jobs:
       - name: Generate breakout graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: shahkooh
+          github_user_name: mohammad-abbasi-sh
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
