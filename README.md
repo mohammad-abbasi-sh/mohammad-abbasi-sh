@@ -67,7 +67,7 @@ Technical SEO · GEO / AI Search · Programmatic SEO · AI Content Engines · Pr
 
 ### 🕹️ Commit arcade
 
-![Pac-Man game over Mohammad's GitHub contribution graph](https://github.com/mohammad-abbasi-sh/mohammad-abbasi-sh/blob/output/pacman-contribution-graph.svg)
+![Pac-Man game over Mohammad's GitHub contribution graph](https://raw.githubusercontent.com/mohammad-abbasi-sh/mohammad-abbasi-sh/output/pacman-contribution-graph.svg)
 
 My last year of commits as a Pac-Man game, regenerated daily by GitHub Actions. Made with [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
 
