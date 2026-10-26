@@ -4,6 +4,8 @@
 
 **I turn search into growth — SEO systems that rank, AI workflows that scale, and products that convert.**
 
+[🇮🇷 نسخه فارسی این صفحه](README-fa.md)
+
 Technical SEO · GEO / AI Search · Programmatic SEO · AI Content Engines · Product-Led Growth · Persian NLP
 
 ![SEO](https://img.shields.io/badge/SEO-006D70?style=flat-square&logo=google&logoColor=white)
