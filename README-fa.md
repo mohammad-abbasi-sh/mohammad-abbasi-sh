@@ -65,7 +65,7 @@
 
 ### 🕹️ آرکید کامیت
 
-![بازی پک‌من روی گراف مشارکت گیت‌هاب محمد](https://github.com/mohammad-abbasi-sh/mohammad-abbasi-sh/blob/output/pacman-contribution-graph.svg)
+![بازی پک‌من روی گراف مشارکت گیت‌هاب محمد](https://raw.githubusercontent.com/mohammad-abbasi-sh/mohammad-abbasi-sh/output/pacman-contribution-graph.svg)
 
 کامیت‌های سال گذشته‌ام به شکل یک بازی پک‌من، که روزانه با GitHub Actions بازسازی می‌شود. ساخته‌شده با [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
 
