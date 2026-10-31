@@ -46,6 +46,7 @@ Technical SEO · GEO / AI Search · Programmatic SEO · AI Content Engines · Pr
 | Sequence modelling (LSTM, time-series prediction) | [traffic-state-prediction-lstm](https://github.com/mohammad-abbasi-sh/traffic-state-prediction-lstm) |
 | Web development (frontend, JavaScript / TypeScript, React) | Frontend 2018–2023 · GiftPals SEO 2023–2025 · Head of Data & AI, ROBOTITAN 2025 |
 | Product & growth (marketplace, local SEO, learning products) | [Bonbama](https://bonbama.ir) · [Almanibama](https://almanibama.ir) |
+| AI-agent SEO tooling (Agent Skills + MCP, one new skill weekly) | [agent-seo-skills](https://github.com/mohammad-abbasi-sh/agent-seo-skills) |
 
 ---
 
